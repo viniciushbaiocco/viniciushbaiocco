@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Vinicius Baiocco
 
-<!--
-**viniciushbaiocco/viniciushbaiocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at PUC-Campinas (Brazil). Learning in public, drawn to problems where systems, logic and security meet.
 
-Here are some ideas to get you started:
+I'm early in my journey and learning in public, this profile is a record
+of how I grow, not a finished portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm doing right now
+- First semester in Software Engineering: algorithms, data structures, and low-level C
+- Writing Python daily, getting comfortable with the fundamentals
+- Working in a Linux environment and building consistent Git habits
+
+### Tech
+
+`Python` · `C` · `MySQL` · `Git` · `Linux` · `Arduino`
+
+### Where I'm headed
+Looking to grow toward real-world software engineering — open to
+internships in Brazil and remote international opportunities.
+
+
+> Learning in public since my first semester. This profile grows with me.
+---
