@@ -7,7 +7,7 @@ I'm early in my journey, this profile is a record of how I grow,
 not a finished portfolio.
 
 ### What I'm doing right now
-- First semester in Software Engineering: algorithms, data structures, and low-level C
+- First semester in Software Engineering: algorithms, system design, data structures, and low-level C
 - Writing Python daily, getting comfortable with the fundamentals
 - Working in a Linux environment and building consistent Git habits
 
